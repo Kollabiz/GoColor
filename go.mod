@@ -1,1 +1,1 @@
-module GoColor
+module github.com/Kollabiz/GoColor
